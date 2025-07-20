@@ -2,6 +2,11 @@
 
 This is a simple full-stack Book Store application built with the MERN stack (MongoDB, Express, React, Node.js).
 
+## Features
+- Add, view, edit, and delete books
+- Clean UI with Tailwind
+- Connected frontend & backend with REST API
+
 ## Tech Stack
 - **Frontend**: React + Vite + Tailwind CSS
 - **Backend**: Node.js + Express + MongoDB + Mongoose
@@ -32,8 +37,3 @@ npm run dev
 - `GET /api/books/:id`
 - `PUT /api/books/:id`
 - `DELETE /api/books/:id`
-
-## Features
-- Add, view, edit, and delete books
-- Clean UI with Tailwind
-- Connected frontend & backend with REST API
